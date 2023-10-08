@@ -7,7 +7,7 @@ I am Yokin ZOU.
 
 A data analytics engineer and also a data engineer. 
 
-I have almost 2 yeats professional work experience (DIDI,IDEMIA,MOOMOO)
+I have almost 2 yeats professional work experience ([Didi](https://web.didiglobal.com/) Data Scientist >> [IDEMIA](https://www.idemia.com/) Data Analytics&Data Engineer >> [MOOMOO](https://www.moomoo.com/us) Data Analytics Engineer
 
 I love running | swimming | hiking | reading | coding .
 
