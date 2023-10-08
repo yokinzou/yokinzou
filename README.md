@@ -7,6 +7,8 @@ I am Yokin ZOU.
 
 A data analytics engineer and also a data engineer. 
 
+I have almost 2 yeats professional work experience (DIDI,IDEMIA,MOOMOO)
+
 I love running | swimming | hiking | reading | coding .
 
 Find me on: [LinkedIn](https://www.linkedin.com/in/yuanjianzou/)  | [Email](mailto:yokinzou@outlook.com)
