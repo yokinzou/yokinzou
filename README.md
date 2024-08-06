@@ -10,7 +10,7 @@ A data analytics engineer and also a data engineer.
 I have almost 2 yeats professional work experience
 >> [DIDI](https://web.didiglobal.com/) Data Scientist Intern
 >> [IDEMIA](https://www.idemia.com/) Data Analytics&Data Engineer
->> [MOOMOO](https://www.moomoo.com/us) Data Analytics Engineer
+>> [Procter & Gamble]([https://www.moomoo.com/us](https://us.pg.com/)) Data Engineer BI
 
 I love running | swimming | hiking | reading | coding .
 
