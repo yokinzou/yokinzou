@@ -8,7 +8,6 @@ I am Yokin ZOU.
 A data analytics engineer and also a data engineer. 
 
 I have almost 3 yeats professional work experience
->> [DIDI](https://web.didiglobal.com/) Data Scientist Intern 
 >> [IDEMIA](https://www.idemia.com/) Data Analytics&Data Engineer
 >> [Procter & Gamble](https://us.pg.com/) Data Engineer BI
 
