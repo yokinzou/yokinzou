@@ -23,12 +23,10 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=yokinzou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yokinzou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yokinzou&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokinzou&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
