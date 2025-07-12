@@ -34,10 +34,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yokinzou&show_icons=true&theme=radical" alt="Yokin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokinzou&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yokinzou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💬 Let's Connect
 
