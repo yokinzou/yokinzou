@@ -27,3 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yokinzou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Coursera](https://img.shields.io/badge/Coursera-Generative_AI_Completed-blue?style=for-the-badge&logo=coursera)
+![Google Cloud](https://img.shields.io/badge/GCP-Data_Engineer_Certified-yellow?style=for-the-badge&logo=googlecloud)
