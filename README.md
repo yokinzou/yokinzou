@@ -32,8 +32,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yokinzou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 💬 Let's Connect
-
-- 📧 Email: yokinzou@outlook.com  
-- 🌐 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
