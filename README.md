@@ -3,7 +3,7 @@
 
 ---
 
-## 🧰 Tech Stack:
+## Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -35,10 +35,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yokinzou&theme=tokyonight&no-frame=true&row=2&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yokinzou&show_icons=true&theme=radical" alt="Yokin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokinzou&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
----
 
 ## 💬 Let's Connect
 
