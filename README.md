@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yokin Zou</h1>
-<p align="center">🚀 Full-Stack Data Engineer | AI Application Explorer | Based in Netherlands 🇳🇱</p>
-
----
-
 ## Tech Stack:
 
 <p align="center">
